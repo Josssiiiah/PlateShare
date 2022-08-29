@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Welcome to PlateShare, a mobile application to help you decide what you'd like to eat at Stanford Dining halls. Tired of wasting a meal swipe on a dining hall with unlisted of inaccurate meal descriptions? Join the PlateShare community and upload photos of your plate so others can weigh their options. It's like Waze, but for finding a goof meal! This project is being built using React Native and Echo. 
+Welcome to PlateShare, a mobile application to help you decide what you'd like to eat at Stanford Dining halls. Tired of wasting a meal swipe on a dining hall with unlisted or inaccurate meal descriptions? Join the PlateShare community and upload photos of your plate so others can weigh their options. It's like Waze, but for finding a good meal! This project is being built using React Native and Echo. 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
