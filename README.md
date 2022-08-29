@@ -106,6 +106,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 JosiahGriggs - griggsjo@stanford.edu
+ImenKedir - imenked@stanford.edu
 
 Project Link: [https://josiah-base.vercel.app/](https://josiah-base.vercel.app/)
 
